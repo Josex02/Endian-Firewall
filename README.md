@@ -1,1 +1,1 @@
-|  [Script1](file:///C:/Users/pc/Downloads/manual-instalacion-Endian.pdf)  | Añadir y comprobar puerto  |
+|  [Script1](https://drive.google.com/file/d/1nQbgQYTh0FYxNqVxagrs0XJytoScRTe5/view?usp=drive_link)  | Añadir y comprobar puerto  |
